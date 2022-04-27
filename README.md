@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mobinrai
-- 👀 I’m interested in programming
+- 👀 I’m interested in Php, laravel, javascript
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me mobinraee@gmail.com
