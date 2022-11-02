@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mobinrai&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+
 - 👋 Hi, I’m @mobinrai
 - 👀 I’m interested in Php, laravel, javascript
 - 💞️ I’m looking to collaborate on laravel projects
