@@ -11,7 +11,7 @@
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][3]
 
 [1]: https://www.facebook.com/username
-[2]: https://www.linkedin.com/in/username
+[2]: https://www.linkedin.com/in/mobin-rai-195047b7/
 [3]: https://www.github.com/username
 <!---
 mobinrai/mobinrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
