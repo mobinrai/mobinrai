@@ -9,7 +9,7 @@
 - 📚 I love creating project with php, laravel and front-end tools(html, css and Js)
 
   #### Languages and Tools
-  [![My Skills](https://skills.thijs.gg/icons?i=php,js,css,html,jquery,mysql,nodejs,figma&theme=light)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=php,js,css,html,jquery,mysql,nodejs&theme=light)](https://skills.thijs.gg)
   
   #### Social Links
   [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
