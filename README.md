@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=mobinrai&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
-- 👀 I’m interested in Php, laravel, javascript
-- 📖 I am learning Php with laravel
+- 👀 I’m interested in Php, laravel,Python, javascript
+- 📖 I am learning Php with laravel, Python
 - 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me mobinraee@gmail.com
-- 📚 I love creating project with php, laravel and front-end tools(html, css and Js)
+- 📚 I love creating project with php, laravel and front-end tools(html, css and Js) nad Python as well
 
   #### Languages and Tools
   [![My Skills](https://skills.thijs.gg/icons?i=php,js,css,html,jquery,mysql,nodejs&theme=light)](https://skills.thijs.gg)
